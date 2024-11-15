@@ -1,5 +1,6 @@
+<h1>Ola Wi<h1>
 
-<!---
-uDxkr/uDxkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### ✉ Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/965654123443781702)](https://discord.com/users/965654123443781702)
