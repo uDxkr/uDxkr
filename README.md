@@ -6,7 +6,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;CyberSecurity+Specialist;Always+learning+new+things" />
+  <img src="[https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;CyberSecurity+Specialist;Always+learning+new+things](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;CyberSecurity+Specialist;Always+learning+new+things
+)" />
 </div>
 
 ---
