@@ -49,7 +49,7 @@ Tenho experiência com:
 
 - Desenvolvimento e integração via **WebSocket**, criando conexões em tempo real.  
 - Construção de backends robustos e APIs RESTful.  
-- Desenvolvimento de clientes personalizados para Minecraft, usando mixins e manipulação de pacotes.  
+- Desenvolvimento de clients, aplicativos web e soluções para empresas.
 - Segurança digital, automação e otimização de processos.  
 
 Estou sempre aprendendo novas tecnologias e melhorando minhas habilidades, buscando entregar o melhor em cada projeto.
