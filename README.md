@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Linguagens que eu manjo
+## 💻 Linguagens que eu lido diariamente
 
 - C#  
 - C  
