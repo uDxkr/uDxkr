@@ -43,16 +43,19 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor Full Stack focado em backend, APIs, WebSocket e desenvolvimento web. Trabalho com diversas linguagens e tecnologias para construir sistemas escaláveis e seguros.
+Sou um desenvolvedor Full Stack que trabalha com diversas linguagens e tecnologias para criar sistemas escaláveis e seguros.
 
-Tenho experiência com:
+Tenho experiência em:
 
-- Desenvolvimento e integração via **WebSocket**, criando conexões em tempo real.  
-- Construção de backends robustos e APIs RESTful.  
-- Desenvolvimento de clients, aplicativos web e soluções para empresas.
-- Segurança digital, automação e otimização de processos.  
+Desenvolvimento e integração via WebSocket, criando ligações em tempo real.
 
-Estou sempre aprendendo novas tecnologias e melhorando minhas habilidades, buscando entregar o melhor em cada projeto.
+Construção de backends robustos e APIs RESTful.
+
+Desenvolvimento de clientes, aplicações web e soluções para empresas.
+
+Segurança digital, automação e otimização de processos.
+
+Estou sempre a aprender novas tecnologias e a melhorar as minhas competências, procurando entregar o melhor em cada projeto.
 
 ---
 <div align="center">
