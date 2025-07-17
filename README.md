@@ -35,8 +35,9 @@
 - C#  
 - C  
 - Java  
-- Python  
-- HTML  
+- Python
+- Java Script
+- Type Script
 - PHP  
 
 ---
