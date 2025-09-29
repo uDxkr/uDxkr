@@ -33,11 +33,9 @@
 ## 💻 Linguagens que eu lido diariamente
 
 - C#  
-- C  
 - Java  
 - Python
 - Java Script
-- Type Script
 - PHP  
 
 ---
