@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;CyberSecurity+Specialist;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Backend+Developer;Always+learning+new+things" />
 </div>
 
 ---
@@ -36,13 +36,13 @@
 - Java  
 - Python
 - Java Script
-- PHP  
+- Kotlin
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor Full Stack que trabalha com diversas linguagens e tecnologias para criar sistemas escaláveis e seguros.
+Sou um desenvolvedor Backend que trabalha com diversas linguagens e tecnologias para criar sistemas escaláveis e seguros.
 
 Tenho experiência em:
 
