@@ -22,7 +22,6 @@
     <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
     <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
     <img alt="Python" height="40" src="https://skillicons.dev/icons?i=python" />
-    <img alt="PHP" height="40" src="https://skillicons.dev/icons?i=php" />
     <img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql" />
     <img alt="WebSocket" height="40" src="https://cdn.worldvectorlogo.com/logos/websocket.svg" style="background:#fff; padding:5px; border-radius:5px;" />
   </div>
