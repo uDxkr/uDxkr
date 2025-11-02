@@ -1,7 +1,7 @@
 # Olá, eu sou o Dxkr! 👋
 
 ### ✉ Me encontre no Discord  
-[![Discord Presence](https://lanyard.cnrad.dev/api/965654123443781702)](https://discord.com/users/965654123443781702)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1327638177552269343)](https://discord.com/users/1327638177552269343)
 
 ---
 
