@@ -18,7 +18,6 @@
     <img alt="VSCode" height="40" src="https://skillicons.dev/icons?i=vscode" />
     <img alt="IntelliJ IDEA" height="40" src="https://skillicons.dev/icons?i=idea" />
     <img alt="Git" height="40" src="https://skillicons.dev/icons?i=git" />
-    <img alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker" />
     <img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs" />
     <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java" />
     <img alt="Python" height="40" src="https://skillicons.dev/icons?i=python" />
