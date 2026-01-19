@@ -30,7 +30,8 @@
 
 ## 💻 Linguagens que eu lido diariamente
 
-- C#  
+- C#
+- C++
 - Java  
 - Python
 - Java Script
